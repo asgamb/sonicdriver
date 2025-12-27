@@ -1,0 +1,10 @@
+{
+  "redis": {
+    "ip": "10.0.0.139",
+    "port": 6379,
+    "topic_id": "nodeagent/Collector"
+  },
+  "path": "data.csv",
+  "sleep_time": 1,
+  "header": {"measurement": "Demo2_2025", "tags": {"type": "edgecore", "source": "edgecore1"}}
+}

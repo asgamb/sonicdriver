@@ -1,0 +1,34 @@
+{
+    "Ethernet0": {
+        "alias": "Eth1/1(Port1)",
+        "lanes": "73,74",
+        "speed": "100000",
+        "index": "1",
+        "subport": "1",
+        "parent_port": "Ethernet0"
+    },
+    "Ethernet2": {
+        "alias": "Eth1/2(Port1)",
+        "lanes": "75,76",
+        "speed": "100000",
+        "index": "1",
+        "subport": "2",
+        "parent_port": "Ethernet0"
+    },
+    "Ethernet4": {
+        "alias": "Eth1/3(Port1)",
+        "lanes": "77,78",
+        "speed": "100000",
+        "index": "1",
+        "subport": "3",
+        "parent_port": "Ethernet0"
+    },
+    "Ethernet6": {
+        "alias": "Eth1/4(Port1)",
+        "lanes": "79,80",
+        "speed": "100000",
+        "index": "1",
+        "subport": "4",
+        "parent_port": "Ethernet0"
+    }
+}
